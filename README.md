@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Java**
 
-- 👨‍💻 All of my projects are available at [https://kiran28092003.github.io/portfolio/](https://kiran28092003.github.io/portfolio/)
+- 👨‍💻 For my portfolio visit at [https://kiran28092003.github.io/portfolio/](https://kiran28092003.github.io/portfolio/)
 
 - 📫 How to reach me **kirantajanpure48@gmail.com**
 
