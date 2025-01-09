@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiran28092003&show_icons=true&locale=en&layout=compact" alt="kiran28092003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiran28092003&show_icons=true&locale=en" alt="kiran28092003" /></p>
+[![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiran28092003)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiran28092003&" alt="kiran28092003" /></p>
