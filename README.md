@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Java**
 
-- 👨‍💻 All of my projects are available at [https://kiran28092003.github.io/portfolio/](https://kiran28092003.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [MyRepository](https://github.com/kiran28092003/Projects)
 
 - 📫 How to reach me **kirantajanpure48@gmail.com**
 
@@ -20,6 +20,7 @@
 <a href="https://linkedin.com/in/kiran-tajanpure-a7509225b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiran-tajanpure-a7509225b" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/learnersworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learnersworld" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kirantajanpure48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kirantajanpure48" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/colleges/amrutvahini-college-of-engineering-avcoe-ahmed-nagar/students/?utm_source=auth&utm_medium=profile&utm_campaign=colleges" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/GeekForGeeks.svg"  height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kirantajanpure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kirantajanpure" height="30" width="40" /></a>
 </p>
 
